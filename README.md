@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Loyalty Program Success**: An assessment of the loyalty program on customer retention and sales.
 - **Regional Comparisons**: An evaluation of sales and orders by region.
 
-The cleaned dataset, along with all transformation and cleaning steps performed in Excel, can be found [here](#).
+The cleaned dataset, along with all transformation and cleaning steps performed in Excel, can be found [here](https://github.com/Rohan-Morajkar/Elite-Electronics-Analysis/blob/main/Celan%20dataset.xlsx).
 
 An interactive PowerBI dashboard can be downloaded [here](#).
 
