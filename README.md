@@ -29,7 +29,7 @@ Elist’s database structure as seen below consists of four tables: orders, cust
 
 After peaking in late 2020, the company’s sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: order volume by 40%, revenue by 46%, and average order value (AOV) by 10%. While this decline can be broadly attributed to a return to pre-pandemic normalcy, the following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](#).
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/Rohan-Morajkar/Elite-Electronics-Analysis/blob/main/Elist%20Electronics%20Dashboard.pbix).
 
 ![Screenshot 2025-06-11 124915](https://github.com/user-attachments/assets/01f14c5a-6c59-4f89-9db1-718efff6c936)
 
