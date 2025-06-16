@@ -58,7 +58,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 - The accessory category continues to grow as a share of orders, **now at 32% in 2022, up from 21% in 2020**. However, accessories remain less than 4% of total revenue.
 
-- Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter among known region sales.
+- Regional revenue trends show that North America consistently led in performance, peaking around early 2020 with over $1M in monthly revenue. However, from early 2021 onward, all regions—including LATAM, EMEA, and APAC—experienced a steady decline
 
 ![Screenshot 2025-06-11 130416](https://github.com/user-attachments/assets/1ba4eea6-859f-4b6b-8b3a-7e09fef51651)
 
