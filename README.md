@@ -42,26 +42,46 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 - Beginning in March 2021, **revenue declined on a year-over-year basis for 22 consecutive months.**  
   Revenue hit a company lifetime low in December 2022, with the company earning just over $180K.
 
-- Despite the downward trend, full-year 2022 remained above the pre-COVID 2019 baseline in all three key performance indicators.  
-  This is primarily due to the stronger 1Q22, which recorded revenue and order count well above the same period in 2020, **up 37% and 23% respectively.**
+- Across the full period, **members contributed $12.5M out of the total $20.3M revenue (~62%)**, highlighting their critical importance to the company’s revenue stream.
 
-- Average order value saw a one-month year-over-year increase in September 2022,  
-  this can be attributed to an increased share of high-cost laptop orders.
+- In **2019**, members accounted for **93% of revenue** ($2.5M of $2.7M), but this dominance declined consistently over the years:
+  - **2020**: 72% from members ($5.2M of $7.2M)
+  - **2021**: 47% from members ($3.1M of $6.6M)
+  - **2022**: 42% from members ($1.6M of $3.8M)
+
+- This trend reflects a **declining reliance on loyal members** or possibly a **drop in engagement and retention**. It raises a need to **re-evaluate loyalty strategies**, improve retention campaigns, and strengthen member-exclusive benefits to reverse the fall in member-driven revenue.
   
 ![Screenshot 2025-06-11 125835](https://github.com/user-attachments/assets/f330cafb-e3bd-40b7-af82-7c45948219fd)
 
 ### Product Performance:
 
 - **85% of the company’s orders are from just three products**, Gaming Monitor, Apple AirPods Headphones, and Samsung Charging Cable Pack. These three products accounted for $3.5M in revenue in 2022, 70% of the company’s total.
+  
+- **MacBook Air Laptop** has the **highest AOV ($1,596)** with only **3K orders**, yet it contributes **$4.5M** to total revenue, showing strong premium product performance.
+  
+- **Gaming Monitor** leads in revenue generation at **$7.1M**, supported by a solid **17K orders**, making it both high demand and high earning.
+  
+- **Apple AirPods** dominate in order volume (**35K orders**) but have a **low AOV of $160**, generating less revenue than expected — indicating popularity but low unit value.
+  
+- **ThinkPad Laptop**, with an **AOV of $1,097** and just **2K orders**, shows potential if demand can be increased through targeted campaigns.
+  
+- Low-performing products like **Apple iPhone** and **Bose Soundsport Headphones** have both low order counts and revenue, suggesting the need for strategy review or phasing out.
+  
+- Accessories such as **Samsung Charging Cable Pack ($20 AOV)** and **Samsung Webcam ($51 AOV)** offer limited revenue potential individually but can be leveraged in bundles to increase cart size.
 
-- In the headphones category, the Bose SoundSport Headphones have underperformed, contributing to less than 1% of total revenues and orders despite being, on average, $40 cheaper than the well-performing AirPods.
 
-- The accessory category continues to grow as a share of orders, **now at 32% in 2022, up from 21% in 2020**. However, accessories remain less than 4% of total revenue.
+![Screenshot 2025-06-16 111531](https://github.com/user-attachments/assets/f8f3c48a-9810-4797-bb1c-fc75cada2634)
 
-- Regional revenue trends show that North America consistently led in performance, peaking around early 2020 with around $1M in monthly revenue. However, from early 2021 onward, all regions—including LATAM, EMEA, and APAC—experienced a steady decline
+
+###  Regional Performance:
+
+- **North America led across all metrics**, generating the highest revenue of **$10M**, with the **largest order count (40,861)** and a solid **AOV of $257**. This made it the strongest-performing region overall.
+
+- **EMEA and APAC had comparable AOVs** ($257 and $272 respectively), but **lower order volumes** resulted in **moderate revenue figures** of **$6M (EMEA)** and **$2.2M (APAC)**. **LATAM**, with the **lowest order count and AOV**, contributed only **$1.5M**.
+
+- **Revenue trends peaked in early 2020**, particularly in North America with close to **$1M in monthly revenue**, but **all regions showed a steady decline from early 2021 onward**, indicating a widespread drop in demand post-COVID surge.
 
 ![Screenshot 2025-06-11 130416](https://github.com/user-attachments/assets/1ba4eea6-859f-4b6b-8b3a-7e09fef51651)
-
 
 ## Recommendations:
 
