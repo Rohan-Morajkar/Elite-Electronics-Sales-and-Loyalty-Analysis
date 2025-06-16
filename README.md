@@ -27,7 +27,7 @@ Elist’s database structure as seen below consists of four tables: orders, cust
 
 ### Overview of Findings
 
-After peaking in late 2020, the company’s sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: order volume by 40%, revenue by 46%, and average order value (AOV) by 10%. While this decline can be broadly attributed to a return to pre-pandemic normalcy, the following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
+After peaking in late 2020, the company’s sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: order volume by 36%, revenue by 42%, and average order value (AOV) by 9%. While this decline can be broadly attributed to a return to pre-pandemic normalcy, the following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/Rohan-Morajkar/Elite-Electronics-Analysis/blob/main/Elist%20Electronics%20Dashboard.pbix).
 
@@ -36,11 +36,11 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
  ### Sales Trends:
 
-- **The company’s sales peaked in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue.**  
+- **The company’s sales peaked in May 2020 with 2,727 orders totaling $7,97,247 monthly revenue.**  
   This corresponds with the boom in economy-wide spending due to pandemic-induced changing consumer behavior.
 
-- Beginning in April 2021, **revenue declined on a year-over-year basis for 21 consecutive months.**  
-  Revenue hit a company lifetime low in October 2022, with the company earning just over $178K. In the following months, revenue recovered slightly, following normal holiday seasonality patterns.
+- Beginning in March 2021, **revenue declined on a year-over-year basis for 22 consecutive months.**  
+  Revenue hit a company lifetime low in December 2022, with the company earning just over $180K.
 
 - Despite the downward trend, full-year 2022 remained above the pre-COVID 2019 baseline in all three key performance indicators.  
   This is primarily due to the stronger 1Q22, which recorded revenue and order count well above the same period in 2020, **up 37% and 23% respectively.**
