@@ -83,16 +83,30 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ![Screenshot 2025-06-11 130416](https://github.com/user-attachments/assets/1ba4eea6-859f-4b6b-8b3a-7e09fef51651)
 
-## Recommendations:
+##  Recommendations
 
-Based on the uncovered insights, the following recommendations have been provided:
+### 1. Reignite Sales Growth
+- **Launch promotional campaigns** during Q2, as historical data shows this quarter consistently performs better across years.
+- Develop seasonal marketing strategies aligned with previous sales peaks (e.g., May 2020).
+- Introduce flash sales or bundling during off-peak months (e.g., Q4) to reduce sales dips.
 
-- With 85% of orders and 70% of revenue coming from just three products, diversifying the product portfolio is crucial. **Expanding the accessory category with new product lines, particularly Apple charging cables, would provide upsell opportunities.**
+### 2. Revamp Loyalty Program
+- Reassess and enhance the **value proposition of the loyalty program** to reverse declining member revenue share (from 93% in 2019 to 42% in 2022).
+- Implement **member-only deals**, early product access, or tier-based incentives to improve **retention and engagement**.
+- Launch **reactivation campaigns** targeted at lapsed members using historical purchasing behavior.
 
-- Despite the general sales success of Apple products, iPhone sales have been disappointingly low (1% of revenue in 2022). **Enhancing marketing efforts to previous Apple product buyers could boost sales.**
+### 3. Optimize Product Strategy
+- Focus marketing spend and inventory planning on **top 3 performers**: Gaming Monitor, Apple AirPods, and Samsung Charging Cable Pack.
+- Promote high AOV but underperforming products like **ThinkPad Laptop** through **targeted ads** or **bundled upgrades**.
+- Phase out persistently low performers unless strategic or brand-aligned; repurpose them in **bundles** to boost AOV.
+- Upsell opportunities: Use accessories (e.g., Webcam, Cables) in **combo offers** to increase cart size.
 
-- Look to capitalize on the growing share of Samsung accessories (32% of order count in 2022) by **introducing higher-cost Samsung products in already carried product categories such as laptops and cellphones.**
+### 4. Regional Strategy Alignment
+- Double down on **North America**, the highest-performing region, through enhanced local promotions and logistics optimization.
+- Grow **EMEA and APAC** by analyzing NA success strategies and tailoring them to cultural preferences and product trends.
+- Explore demand generation in **LATAM** by introducing competitively priced entry-level SKUs and regional influencer marketing.
 
-- **Re-evaluate Bose SoundSport Headphones.** As the product has never made up more than 1% of annual revenue, attempt to sell through the product by implementing bundle offers and flash sales to non-Apple ecosystem loyalty members before discontinuing.
-
-- **Continue and push forward the loyalty program.** In order to convert non-members, consider offering a one-time sign-up discount paired with increased general marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, and utilize past order data to increase marketing efforts when previously purchased products may need replacing.
+### 5. Address Post-Pandemic Decline
+- Invest in **retargeting past customers** from the 2020-2021 surge through email or SMS marketing.
+- Launch **customer surveys** to understand post-COVID expectations and adapt offerings accordingly.
+- Consider expanding into **new product categories or services** (e.g., warranties, subscriptions) to diversify revenue sources.
